@@ -6,7 +6,7 @@ int main() {
   cout << "Введіть оператор\n1\t+\n2\t-\n3\t*\n4\t/\n\n";  cin >> op;
   cout << "Введіть друге число\n";     cin >> b;
   switch(op) {
-    case 1:     // code
+      case 1:     result = a + b;  break;
                     break;
 
     case 2:    // code
