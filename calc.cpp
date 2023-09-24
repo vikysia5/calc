@@ -9,7 +9,7 @@ int main() {
       case 1:     result = a + b;  break;
                     break;
 
-    case 2:    // code
+      case 2:    result = a - b;
 
                     break;
 
